@@ -7,6 +7,6 @@ Pong replica built in p5.js
 - Collision detection could be improved. Currently if the ball were to hit the top or bottom of the paddles it would bounce back into the field. It should obviously bounce out of play into the goal.
 
 # Credits
-- ![The Coding Train](https://www.youtube.com/channel/UCvjgXvBlbQiydffZU7m1_aw) Youtube channel helped me with learning p5.js. The Coding Challenge videos were of particular interest. 
+- [The Coding Train](https://www.youtube.com/channel/UCvjgXvBlbQiydffZU7m1_aw) Youtube channel helped me with learning p5.js. The Coding Challenge videos were of particular interest. 
 
-- ![Matt Miller](https://github.com/matt123miller) provided inspiration and helped with ![rubber duck debugging](https://en.wikipedia.org/wiki/Rubber_duck_debugging)
+- [Matt Miller](https://github.com/matt123miller) provided inspiration and helped with [rubber duck debugging](https://en.wikipedia.org/wiki/Rubber_duck_debugging).
